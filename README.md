@@ -1,4 +1,4 @@
-def
+D.E.P.U.T.A.D.O E.M F.O.C.O
 ===
 
-Projeto Deputado Em Foco - Aplicação Swing
+Aplicação em Swing
